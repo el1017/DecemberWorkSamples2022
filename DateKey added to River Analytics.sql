@@ -1,1 +1,0 @@
-SELECT CAST(CONVERT(char(8),CONVERT(date,timestamp,121),112) AS INT) AS DateKey, *  FROM River_Analytics
